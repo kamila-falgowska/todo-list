@@ -2,6 +2,7 @@
     margin: 10px 0;
     box-shadow: 13px 15px 27px -57px rgba(161, 161, 164, 1);
     max-width: 900px;
+    background: rgb(252, 252, 252);
 }
 
 .section__header {
@@ -17,10 +18,12 @@
 
 .section__container {
     display: grid;
-    grid-template-columns: auto auto;
+    grid-template-columns: 1fr auto auto;
     grid-gap: 20px;
-    justify-content: space-between;
+    justify-content: flex-start;
     align-items: center;
+    list-style: none;
+    border-bottom: 1px solid rgb(209, 203, 203);
 }
 
 @media(max-width:767px) {
