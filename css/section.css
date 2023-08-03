@@ -1,12 +1,12 @@
 .section {
     margin: 10px 0;
-    box-shadow: 13px 15px 27px -57px rgba(161, 161, 164, 1);
+    box-shadow: 13px 15px 27px -57px hsl(240, 2%, 64%);
     max-width: 900px;
-    background: rgb(252, 252, 252);
+    background: hsl(0, 0%, 99%);
 }
 
 .section__header {
-    border-bottom: 1px solid #ddd;
+    border-bottom: 1px solid hsl(0, 6%, 81%);
     margin: 0;
     padding: 20px;
 }
@@ -23,7 +23,7 @@
     justify-content: flex-start;
     align-items: center;
     list-style: none;
-    border-bottom: 1px solid rgb(209, 203, 203);
+    border-bottom: 1px solid hsl(0, 6%, 81%);
 }
 
 @media(max-width:767px) {
