@@ -17,10 +17,6 @@
     display: none;
 }
 
-.tasks__content {
-    word-break: break-word;
-}
-
 .tasks__content--done {
     text-decoration: line-through;
 }
