@@ -1,5 +1,7 @@
 .container {
     max-width: 900px;
     padding: 20px;
-    margin: 0 auto;
+    margin: auto;
+    font-family: 'Montserrat', sans-serif;
+    background-color: hsl(0, 0%, 92%);
 }
