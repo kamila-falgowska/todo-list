@@ -20,6 +20,7 @@
     background: hsl(180, 100%, 25%);
     color: white;
     border: none;
+    transition: 0.3s;
 }
 
 .form_button:hover {
