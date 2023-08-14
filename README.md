@@ -12,6 +12,7 @@ This project is a web application designed to enable users to conveniently add a
 
 - Task Creation: The application allows users to add new tasks.
 - Marking Tasks as Completed: Once a task is finished, users can mark it as completed to differentiate it from tasks that are still in progress.
+- Task Hiding: There is an option to hide tasks that have already been completed.
 - Task Deletion: There is an option to delete tasks that have already been completed or are no longer needed.
 
 ![To-Do-List](https://i.postimg.cc/NjWCjfwX/To-Do-List.gif)
