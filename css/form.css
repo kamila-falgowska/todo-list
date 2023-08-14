@@ -23,7 +23,7 @@
     transition: 0.7s;
 }
 
-.form_button:hover {
+.form__button:hover {
     background-color: hsl(180, 93%, 34%);
     transform: scale(1.2);
 }
